@@ -1,0 +1,7 @@
+Seasonal forecast data
+---------------------------------------
+This Directory contains the following sub-directories with forecast data in netcdf
+
+ECMWF folder contains forecast data for rainfall over the next six months from June 2024
+
+NNME - pending
